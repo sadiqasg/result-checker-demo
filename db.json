@@ -1,0 +1,53 @@
+{
+    "ITDepartment": [
+        {
+            "students": [
+                {
+                    "username": "Bolaji",
+                    "reg_no": 123,
+                    "result": [
+                        {
+                            "course-1": "A"
+                        },
+                        {
+                            "course-2": "A"
+                        },
+                        {
+                            "course-3": "B"
+                        }
+                    ]
+                },
+                {
+                    "username": "Sadiq",
+                    "reg_no": 456,
+                    "result": [
+                        {
+                            "course-1": "B"
+                        },
+                        {
+                            "course-2": "C"
+                        },
+                        {
+                            "course-3": "A"
+                        }
+                    ]
+                },
+                {
+                    "username": "Somebody",
+                    "reg_no": 789,
+                    "result": [
+                        {
+                            "course-1": "B"
+                        },
+                        {
+                            "course-2": "F"
+                        },
+                        {
+                            "course-3": "F"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
